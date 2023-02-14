@@ -23,6 +23,6 @@ Soy un desarrollador web full stack MERN/PERN e ingeniero electrónico. Me apasi
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Railway](https://img.shields.io/badge/railway-%23000000.svg?style=for-the-badge&logo=Railway&logoColor=white)
 
 
