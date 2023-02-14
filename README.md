@@ -1,4 +1,7 @@
-https://media.giphy.com/media/xUNd9DSFcER5VuFqGQ/giphy.gif
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/xUNd9DSFcER5VuFqGQ/giphy.gif" width="100"/>
+</div>
+
 
 ### ¡Hola! 👋 Soy Delwin
 
