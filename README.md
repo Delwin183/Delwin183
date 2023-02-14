@@ -15,7 +15,7 @@ Soy un desarrollador web full stack MERN/PERN e ingeniero electrónico. Me apasi
 
 ## Tech Used
 ![Mongo DB](https://img.shields.io/badge/MongoDB-%2320232a.svg?style=for-the-badge&logo=MongoDb)
-![Postgre SQL](https://img.shields.io/badge/Postgre SQL-%2320232a.svg?style=for-the-badge&logo=Postgre SQL)
+![Postgre SQL](https://img.shields.io/badge/PostgreSQL-%2320232a.svg?style=for-the-badge&logo=Postgre SQL)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
