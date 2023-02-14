@@ -1,15 +1,15 @@
-<h1>
+<h1 id="header1" align="center">
   Saludos, Soy Delwin 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
-
+</h1>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/xUNd9DSFcER5VuFqGQ/giphy.gif" width="500" />
   
 </div>
 
-</h1>
+
 
 
 Acerca de mí
