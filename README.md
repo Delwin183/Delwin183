@@ -1,5 +1,5 @@
-###                                         ¡Hola! 👋 Soy Delwin
-______________________________________
+
+
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/xUNd9DSFcER5VuFqGQ/giphy.gif" width="500" />
