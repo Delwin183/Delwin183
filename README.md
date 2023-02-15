@@ -3,10 +3,8 @@ Greetings, I'm Delwin  👋
 </h1>
 
 <div id="header" align="center">
-  <img src="https://i.ibb.co/sFyjyJ0/banner4.png" alt="banner4" border="0" " width="800px"/>
-
-                                                                                         
-</div>                                                                                                                                                                                                                                             
+  <img src="https://i.ibb.co/sFyjyJ0/banner4.png" alt="banner4" border="0" " width="800px"/>                                                                             <div>      
+</div>                                                                                                                                                                                                                                            
 ## 📋About me
 
 I am a full stack MERN/PERN web developer and electronics engineer . I am passionate about implementing short term electronic engineering with programming to develop innovative projects, especially using ESP32.
