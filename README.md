@@ -27,6 +27,8 @@ I am passionate about technology and I am committed to keep up to date with the 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Railway](https://img.shields.io/badge/railway-%23000000.svg?style=for-the-badge&logo=Railway&logoColor=white)
 
+## Package Manager
+![NPM](https://img.shields.io/badge/-NPM-000?style=for-the-badge&logo=npm)
 
 ## Version Control
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
