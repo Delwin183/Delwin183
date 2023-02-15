@@ -38,4 +38,7 @@ I am passionate about technology and I am committed to keep up to date with the 
   <a href="https://www.linkedin.com/in/delwin-hernandez-b926182b/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/Email-white?style=for-the-badge&logo=email&logoColor=white" alt="email Badge"/>
+  </a>
   </div>
