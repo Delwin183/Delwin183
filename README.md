@@ -1,10 +1,10 @@
 <h1 id="header1" align="center"/>
 Greetings, I'm Delwin  👋                                                                          
-<h1/>
+</h1>
 
 <div id="header" align="center"/>
   <img src="https://i.ibb.co/sFyjyJ0/banner4.png" alt="banner4" border="0" " width="800px"/>                                                                             
-                                                                                          
+</div>                                                                                         
                                                                                           
                                                                                          
    
