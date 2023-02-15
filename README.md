@@ -20,8 +20,7 @@ Greetings, I'm Delwin  👋
                                                                                           
 ##  :man_technologist: About me
  
-
-💻 #### I'm a web developer with knowledge in MERN and PERN stacks. I am also passionate about technology and I am always committed to stay up to date with the latest trends.
+#### 💻 I'm a web developer with knowledge in MERN and PERN stacks. I am also passionate about technology and I am always committed to stay up to date with the latest trends.
 
 I'm also an electronic engineer with experience in electrical measurements, consumer electronics, electronic soldering and electronic repair in general.
 
