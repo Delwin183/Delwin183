@@ -20,13 +20,19 @@ Greetings, I'm Delwin  👋
                                                                                           
 ##  :man_technologist: About me
  
-#### 💻 I'm a web developer with knowledge in MERN and PERN stacks. I am also passionate about technology and I am always committed to stay up to date with the latest trends.
+#### 💻 Full Stack Developer Web 
 
-I'm also an electronic engineer with experience in electrical measurements, consumer electronics, electronic soldering and electronic repair in general.
+Knowledge in MERN and PERN stacks. I am also passionate about technology and I am always committed to stay up to date with the latest trends.
 
-As an engineer I always like to provide support to solve all kinds of problems, both in the professional and personal environment, committed to learning and implementing efficient and effective solutions. 
+#### 📟 Electronics Engineer
+  
+Experience in electrical measurements, consumer electronics, electronic soldering and electronic repair in general.
 
-I'm passionate about implementing short-term electronic engineering with programming to develop innovative projects, especially using ESP32.
+I always like to provide support to solve all kinds of problems, both in the professional and personal environment, committed to learning and implementing efficient and effective solutions. 
+
+I am passionate about implementing short-term electronic engineering with programming to develop innovative projects, especially using ESP32.
+
+Translated with www.DeepL.com/Translator (free version)
 
 
 
