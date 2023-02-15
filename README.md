@@ -28,7 +28,7 @@ I am passionate about technology and I am committed to keep up to date with the 
 ![Railway](https://img.shields.io/badge/railway-%23000000.svg?style=for-the-badge&logo=Railway&logoColor=white)
 
 
-### Version Control
+## Version Control
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
   
