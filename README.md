@@ -9,13 +9,13 @@ Greetings, I'm Delwin  👋
 
 
 
-<h1>
-## 📋About me
+
+📋About me
 
 I am a full stack MERN/PERN web developer and electronics engineer . I am passionate about implementing short term electronic engineering with programming to develop innovative projects, especially using ESP32.
 
 I am passionate about technology and I am committed to keep up to date with the latest trends in the market to offer a high quality service. 
-<h1>                                                                                          
+                                                                                        
 
 
 ## Tech Used
