@@ -6,7 +6,7 @@ Greetings, I'm Delwin  👋
   <img src="https://i.ibb.co/sFyjyJ0/banner4.png" alt="banner4" border="0" " width="800px"/>                                                                             
  
   
-## 📩 Contact me 
+#### 📩 Contact 
 <div id="badges">
   <a href="https://www.linkedin.com/in/delwin-hernandez-b926182b/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
