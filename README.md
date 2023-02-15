@@ -18,8 +18,8 @@ Greetings, I'm Delwin  👋
   </div>                                                                                          
    
                                                                                           
-## 📋 About me
-  :man_technologist:
+##  :man_technologist: About me
+ 
 
 I am a full stack MERN/PERN web developer and electronics engineer . I am passionate about implementing short term electronic engineering with programming to develop innovative projects, especially using ESP32.
 
