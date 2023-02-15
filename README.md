@@ -1,6 +1,6 @@
 <h1 id="header1" align="center">
   Greetings, I'm Delwin 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://i.ibb.co/sFyjyJ0/banner4.png" alt="banner4" border="0" " width="30px"/>
 
 </h1>
 
