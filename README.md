@@ -69,10 +69,10 @@ Experience in electrical measurements, consumer electronics, electronic solderin
 #### My Stats :
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=delwin183&show_icons=true&theme=dark)
-
-
   
 [![](https://visitcount.itsvg.in/api?id=delwin183&label=Profile%20Views&color=1&icon=9&pretty=true)](https://visitcount.itsvg.in)
+  
+### Thanks for Visiting my GitHub Profile!
   
   
 
