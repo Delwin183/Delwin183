@@ -70,11 +70,7 @@ Experience in electrical measurements, consumer electronics, electronic solderin
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=delwin183&show_icons=true&theme=dark)
 
-<div>
-<p align="center">
-<img src="https://github.com/delwin183/delwin183/blob/output/github-contribution-grid-snake.svg">
-</p>
-</div>
+
   
 [![](https://visitcount.itsvg.in/api?id=delwin183&label=Profile%20Views&color=1&icon=9&pretty=true)](https://visitcount.itsvg.in)
   
