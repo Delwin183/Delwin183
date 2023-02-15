@@ -1,12 +1,9 @@
 <h1 id="header1" align="center">
-  Greetings, I'm Delwin
-  <div>
-  <img src="https://i.ibb.co/sFyjyJ0/banner4.png" alt="banner4" border="0" " width="500px"/>
-  </div>                                                                                    
+  Greetings, I'm Delwin                                                                            
 </h1>
 
 <div id="header" align="center">
-  <img src="https://ibb.co/dQGBGJd" width="500" />
+  <img src="https://i.ibb.co/sFyjyJ0/banner4.png" alt="banner4" border="0" " width="500px"/>
   
 </div>
 
