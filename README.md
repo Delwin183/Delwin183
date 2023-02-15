@@ -51,7 +51,7 @@ I am passionate about technology and I am committed to keep up to date with the 
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
   
 ### :fire: My Stats :
-https://github-readme-streak-stats.herokuapp.com/?user=your-github-username
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
   
   
 
