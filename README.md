@@ -1,5 +1,5 @@
 <h1 id="header1" align="center">
-  Greetings, I'm Delwin  👋                                                                          
+##  Greetings, I'm Delwin  👋                                                                          
 </h1>
 
 <div id="header" align="center">
@@ -8,15 +8,15 @@
 </div>
 
 
-<div>
 
-📋About me
+
+##📋About me
 
 I am a full stack MERN/PERN web developer and electronics engineer . I am passionate about implementing short term electronic engineering with programming to develop innovative projects, especially using ESP32.
 
 I am passionate about technology and I am committed to keep up to date with the latest trends in the market to offer a high quality service. 
                                                                                           
-</div>
+
 
 ## Tech Used
 ![Mongo DB](https://img.shields.io/badge/MongoDB-%2320232a.svg?style=for-the-badge&logo=MongoDb)
