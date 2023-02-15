@@ -4,8 +4,17 @@ Greetings, I'm Delwin  👋
 
 <div id="header" align="center"/>
   <img src="https://i.ibb.co/sFyjyJ0/banner4.png" alt="banner4" border="0" " width="800px"/>                                                                             
-</div>                                                                                         
-                                                                                          
+</div>   
+  
+## 📩 Contact me 
+<div id="badges">
+  <a href="https://www.linkedin.com/in/delwin-hernandez-b926182b/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/Mail-white?style=for-the-badge&logo=Mail&logoColor=white" alt="Mail Badge"/>
+  </a>
+  </div>                                                                                          
                                                                                          
    
                                                                                           
@@ -35,12 +44,4 @@ I am passionate about technology and I am committed to keep up to date with the 
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
   
   
-## 📩 Contact me 
-<div id="badges">
-  <a href="https://www.linkedin.com/in/delwin-hernandez-b926182b/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/Mail-white?style=for-the-badge&logo=Mail&logoColor=white" alt="Mail Badge"/>
-  </a>
-  </div>
+
