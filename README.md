@@ -4,7 +4,7 @@ Greetings, I'm Delwin  👋
 
 <div id="header" align="center"/>
   <img src="https://i.ibb.co/sFyjyJ0/banner4.png" alt="banner4" border="0" " width="800px"/>                                                                             
-</div>   
+ 
   
 ## 📩 Contact me 
 <div id="badges">
@@ -15,7 +15,7 @@ Greetings, I'm Delwin  👋
     <img src="https://img.shields.io/badge/Mail-white?style=for-the-badge&logo=Mail&logoColor=white" alt="Mail Badge"/>
   </a>
   </div>                                                                                          
-                                                                                         
+  </div>                                                                                          
    
                                                                                           
 ## 📋 About me
