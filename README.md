@@ -28,4 +28,9 @@ I am passionate about technology and I am committed to keep up to date with the 
 ![Railway](https://img.shields.io/badge/railway-%23000000.svg?style=for-the-badge&logo=Railway&logoColor=white)
 
 
-## 📩 Contact me at
+## 📩 Contact me 
+<div id="badges">
+  <a href="https://www.linkedin.com/in/delwin-hernandez-b926182b/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  </div>
