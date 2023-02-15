@@ -46,6 +46,7 @@ Experience in electrical measurements, consumer electronics, electronic solderin
  
 #### JS Framework/Library
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/redux-%2320232a.svg?style=for-the-badge&logo=redux&logoColor=%2361DAFB)
   
 #### Data Base
 ![Mongo DB](https://img.shields.io/badge/MongoDB-%2320232a.svg?style=for-the-badge&logo=MongoDb)
