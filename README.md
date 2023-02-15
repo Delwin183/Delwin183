@@ -12,7 +12,7 @@ Greetings, I'm Delwin  👋
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/Email-lightgrey?style=for-the-badge&logo=Email&logoColor=black" alt="Mail Badge"/>
+    <img src="https://img.shields.io/badge/Email-lightgrey?style=for-the-badge&logo=Email&logoColor=black" alt="Email Badge"/>
   </a>
   </div>                                                                                          
   </div>                                                                                          
