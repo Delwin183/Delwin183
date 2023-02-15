@@ -17,7 +17,7 @@ I am passionate about technology and I am committed to keep up to date with the 
                                                                                         
 
 
-## Tech Used
+## Tech Skill
 ![Mongo DB](https://img.shields.io/badge/MongoDB-%2320232a.svg?style=for-the-badge&logo=MongoDb)
 ![Postgre SQL](https://img.shields.io/badge/PostgreSQL-%2320232a.svg?style=for-the-badge&logo=PostgreSQL)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
