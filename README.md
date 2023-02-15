@@ -51,9 +51,8 @@ I am passionate about technology and I am committed to keep up to date with the 
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
   
 #### My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigogerman16&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=delwin183&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=delwin183&show_icons=true&theme=dark)
   
   
 
