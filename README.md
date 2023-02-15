@@ -39,6 +39,6 @@ I am passionate about technology and I am committed to keep up to date with the 
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/Email-white?style=for-the-badge&logo=email&logoColor=white" alt="email Badge"/>
+    <img src="https://img.shields.io/badge/Mail-white?style=for-the-badge&logo=Mail&logoColor=white" alt="Mail Badge"/>
   </a>
   </div>
