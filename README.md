@@ -30,9 +30,9 @@ Experience in electrical measurements, consumer electronics, electronic solderin
 
 📋 I always like to provide support to solve all kinds of problems, both in the professional and personal environment, committed to learning and implementing efficient and effective solutions. 
 
-📋 I am passionate about implementing short-term electronic engineering with programming to develop innovative projects, especially using ESP32.
+📋 I'm passionate about implementing short-term electronic engineering with programming to develop innovative projects, especially using ESP32.
 
-Translated with www.DeepL.com/Translator (free version)
+
 
 
 
