@@ -40,18 +40,24 @@ Experience in electrical measurements, consumer electronics, electronic solderin
 ## 🛠️ Tech Stack
   
 #### Languages
-![Mongo DB](https://img.shields.io/badge/MongoDB-%2320232a.svg?style=for-the-badge&logo=MongoDb)
-![Postgre SQL](https://img.shields.io/badge/PostgreSQL-%2320232a.svg?style=for-the-badge&logo=PostgreSQL)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Railway](https://img.shields.io/badge/railway-%23000000.svg?style=for-the-badge&logo=Railway&logoColor=white)
+ 
+#### JS Framework/Library
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  
+#### Data Base
+![Mongo DB](https://img.shields.io/badge/MongoDB-%2320232a.svg?style=for-the-badge&logo=MongoDb)
+![Postgre SQL](https://img.shields.io/badge/PostgreSQL-%2320232a.svg?style=for-the-badge&logo=PostgreSQL)
   
 #### Backend
 ![NodeJS](https://img.shields.io/badge/-NodeJS-000?style=for-the-badge&logo=node.js&logoColor=pink)
 ![Express.js](https://img.shields.io/badge/-ExpressJS-000?style=for-the-badge&logo=express)
 ![API](https://img.shields.io/badge/-API-000?style=for-the-badge&logo=fastapi)  
+  
+#### Web Hosting
+![Railway](https://img.shields.io/badge/railway-%23000000.svg?style=for-the-badge&logo=Railway&logoColor=white)
 
 #### Package Manager
 ![NPM](https://img.shields.io/badge/-NPM-000?style=for-the-badge&logo=npm)
