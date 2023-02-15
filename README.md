@@ -1,5 +1,5 @@
 <h1 id="header1" align="center">
-  Saludos, Soy Delwin 
+  Greetings, I'm Delwin 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 </h1>
@@ -12,8 +12,9 @@
 
 
 
-Acerca de mí
-Soy un desarrollador web full stack MERN/PERN e ingeniero electrónico. Me apasiona implementar a corto plazo la ingeniería electrónica con la programación para desarrollar proyectos innovadores, especialmente utilizando ESP32.
+📋About me
+
+I am a full stack MERN/PERN web developer and electronics engineer. I am passionate about implementing short term electronic engineering with programming to develop innovative projects, especially using ESP32.
 
 
 ## Tech Used
