@@ -39,7 +39,7 @@ I am passionate about technology and I am committed to keep up to date with the 
   
 ## Backend
 ![NodeJS](https://img.shields.io/badge/-NodeJS-000?style=for-the-badge&logo=node.js&logoColor=pink)
-![Express.js](https://img.shields.io/badge/-Express JS-000?style=for-the-badge&logo=express)
+![Express.js](https://img.shields.io/badge/-ExpressJS-000?style=for-the-badge&logo=express)
 ![API](https://img.shields.io/badge/-API-000?style=for-the-badge&logo=fastapi)
   
 
