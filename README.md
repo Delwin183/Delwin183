@@ -1,7 +1,6 @@
 <h1 id="header1" align="center"/>
 Greetings, I'm Delwin  👋                                                                          
 </h1>
-
 <div id="header" align="center"/>
   <img src="https://i.ibb.co/sFyjyJ0/banner4.png" alt="banner4" border="0" " width="800px"/>                                                                             
  
@@ -32,11 +31,6 @@ Experience in electrical measurements, consumer electronics, electronic solderin
 
 📋 I'm passionate about implementing short-term electronic engineering with programming to develop innovative projects, especially using ESP32.
 
-
-
-
-
-
 ## 🛠️ Tech Stack
   
 #### Languages
@@ -51,7 +45,7 @@ Experience in electrical measurements, consumer electronics, electronic solderin
 #### Data Base
 ![Mongo DB](https://img.shields.io/badge/MongoDB-%2320232a.svg?style=for-the-badge&logo=MongoDb)
 ![Postgre SQL](https://img.shields.io/badge/PostgreSQL-%2320232a.svg?style=for-the-badge&logo=PostgreSQL)
-![Prisma ORM](https://img.shields.io/badge/PrismaORM-%2320232a.svg?style=for-the-badge&logo=PrismaORM) 
+![Prisma ORM](https://img.shields.io/badge/Prisma-%2320232a.svg?style=for-the-badge&logo=Prisma) 
   
 #### Backend
 ![NodeJS](https://img.shields.io/badge/-NodeJS-000?style=for-the-badge&logo=node.js&logoColor=pink)
