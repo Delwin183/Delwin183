@@ -53,5 +53,7 @@ I am passionate about technology and I am committed to keep up to date with the 
 #### My Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigogerman16&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=delwin183&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  
   
 
