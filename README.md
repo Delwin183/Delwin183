@@ -9,7 +9,7 @@ Greetings, I'm Delwin  👋
                                                                                          
    
                                                                                           
-## 📋About me
+## 📋 About me
 
 I am a full stack MERN/PERN web developer and electronics engineer . I am passionate about implementing short term electronic engineering with programming to develop innovative projects, especially using ESP32.
 
@@ -17,7 +17,7 @@ I am passionate about technology and I am committed to keep up to date with the 
                                                                                         
 
 
-## Tech Skill
+## 🛠️ Tech Skills
 ![Mongo DB](https://img.shields.io/badge/MongoDB-%2320232a.svg?style=for-the-badge&logo=MongoDb)
 ![Postgre SQL](https://img.shields.io/badge/PostgreSQL-%2320232a.svg?style=for-the-badge&logo=PostgreSQL)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
