@@ -1,8 +1,8 @@
 <h1 id="header1" align="center">
   Greetings, I'm Delwin
-  
+  <div>
   <img src="https://i.ibb.co/sFyjyJ0/banner4.png" alt="banner4" border="0" " width="500px"/>
-
+  </div>                                                                                    
 </h1>
 
 <div id="header" align="center">
