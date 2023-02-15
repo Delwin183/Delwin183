@@ -51,6 +51,7 @@ Experience in electrical measurements, consumer electronics, electronic solderin
 #### Data Base
 ![Mongo DB](https://img.shields.io/badge/MongoDB-%2320232a.svg?style=for-the-badge&logo=MongoDb)
 ![Postgre SQL](https://img.shields.io/badge/PostgreSQL-%2320232a.svg?style=for-the-badge&logo=PostgreSQL)
+![Prisma ORM](https://img.shields.io/badge/PrismaORM-%2320232a.svg?style=for-the-badge&logo=PrismaORM) 
   
 #### Backend
 ![NodeJS](https://img.shields.io/badge/-NodeJS-000?style=for-the-badge&logo=node.js&logoColor=pink)
